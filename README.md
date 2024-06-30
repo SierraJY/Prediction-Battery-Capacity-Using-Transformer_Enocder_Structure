@@ -12,7 +12,7 @@
 - (https://github.com/SierraJY/NASA-Li-ion-BATTERY) 후속 연구
 
 ### 📌 Result
-- LSTM에 보다 , 40Cycle 이후 더 나은 예측 결과를 도출
+- LSTM에 보다 , 제안 모델이 40Cycle 이후 더 나은 예측 결과를 도출
 - End of Life(EoL)이 지나거나 재활용된 리튬 이온 배터리에 적합할 것으로 기대
 
 ### 📌 Directorys & Files
